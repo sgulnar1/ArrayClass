@@ -18,13 +18,7 @@ public class Main {
         String[] strArr = {"Naringul", "Fidan", "Ayxan", "Islam"};
         Arrays.sort(strArr);
         Integer i = 5;
-        System.out.println(i.toString());
-        System.out.println(strArr.toString());
-        System.out.println(Arrays.toString(strArr));
-        System.out.println(Arrays.toString(Main.copyOf(strArr, 3)));
-
-
-        //        int n = 10;
+           //        int n = 10;
 //        int[] arr1 = new int[n];
 //        int[] arr2 = arr1;
 //        int[] arr10 = arr1.clone();
